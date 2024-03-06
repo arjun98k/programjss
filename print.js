@@ -1,0 +1,1 @@
+console.log("this script will save the file to github in one command");
