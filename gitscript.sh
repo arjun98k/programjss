@@ -13,7 +13,7 @@ git add .
 git commit -m "$1"
 
 # Set the remote repository URL
-# git remote add origin "$2"
+git remote add origin "$2"
 
 # Push changes to the remote repository (assuming 'main' is your branch, modify as needed)
 git push origin main --force 
