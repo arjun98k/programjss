@@ -16,5 +16,5 @@ git commit -m "$1"
 git remote add origin "$2"
 
 # Push changes to the remote repository (assuming 'main' is your branch, modify as needed)
-git push origin main
+git push origin main -f
 
