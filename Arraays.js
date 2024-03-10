@@ -5,7 +5,9 @@ console.log(a);
 
 console.log(a);
 
-console.log(a.length);
-let b = a.toString()
-console.log(b)
+// console.log(a.length);
+// let b = a.toString()
+// console.log(b)
+
+console.log(a[0])
 
