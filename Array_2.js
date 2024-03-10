@@ -6,5 +6,9 @@ console.log(array.pop())
 console.log(array)
 console.log(array.push('arjun'))
 console.log(array)
-array.push(98)
+array.push(98)      
 console.log(array)
+ array.shift()        //he pop ka bhai hota hai jo start element ko delete karta hai
+console.log(array)
+array.unshift(298)
+console.log(array)        //or hai push ka bhai jo element start mai add karta hai
