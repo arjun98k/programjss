@@ -12,3 +12,6 @@ console.log(array)
 console.log(array)
 array.unshift(298)
 console.log(array)        //or hai push ka bhai jo element start mai add karta hai
+
+delete array[2]
+console.log(array)      // delete the value but not the memory
