@@ -9,3 +9,5 @@ for (let index = 0; index <5; index++) {
 // while (true) {
 //     console.log("arjun he sde")
 // }
+
+console.log("hii")
