@@ -1,5 +1,4 @@
-
-// document.getElementById("pink").style.color = "red";
+ument.getElementById("pink").style.color = "red";
 // document.getElementById('pink').style.backgroundColor = "yellow"
 
 
@@ -10,10 +9,3 @@
 
 // document.getElementById("pink3").style.color = "pink";
 // document.getElementById('pink3').style.backgroundColor = "green"
-
-console.log("hello")
-
-for (let index = 0; index < 10 ; index++) {
-    console.log("jai shree ram")
-    
-}
