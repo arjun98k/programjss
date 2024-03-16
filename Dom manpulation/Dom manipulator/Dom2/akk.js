@@ -17,3 +17,9 @@ for (let index = 0; index < 10 ; index++) {
     console.log("jai shree ram")
     
 }
+
+i = 1
+while (i < 10) {
+    console.log("beleive in karma")
+    i++
+}
