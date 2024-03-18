@@ -8,3 +8,8 @@ for (let index = 0; index < 17; index++) {
     console.log("wpl champion")
     
 }
+
+for (let index = 0; index < 17; index++) {
+    console.log("wpl champion rcb and mumbai indian")
+    
+}
