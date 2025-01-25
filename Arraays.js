@@ -3,7 +3,7 @@ console.log(a);
 
 // a[0] = 11
 
-console.log(a);
+console.log(akash);
 
 // console.log(a.length);
 // let b = a.toString()
